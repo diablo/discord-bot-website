@@ -3,8 +3,8 @@ A simple Discord Bot website template
 
 # Download
 ```
-$ git clone https://github.com/DiabloTheDev/discord-bot-website
+$ git clone https://github.com/Diablo/discord-bot-website
 ```
 
 # Author
-- [DiabloTheDev](https://github.com/DiabloTheDev)
+- [Diablo](https://github.com/Diablo)
